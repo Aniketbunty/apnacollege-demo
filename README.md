@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Aniket Sawant
+Author - Aniket (Apna college)
